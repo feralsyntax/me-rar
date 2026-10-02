@@ -2,7 +2,7 @@ from django.shortcuts import render,redirect
 from django.http import HttpResponse,Http404
 import datetime as dt
 from .models import Image
-from gallery.forms import SignUpForm
+from gallery_app.forms import SignUpForm
 from django.contrib.auth import login, authenticate
 
 
