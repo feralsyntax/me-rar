@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+
+.navbar{
+opacity:0.85;
+}
+.navbar-brand{
+font-family: 'Rubik Moonrocks';
+font-size:40px;
+}
+.home{
+font-family: 'Rubik Moonrocks';
+font-size:20px;
+padding-top:5%;
+}
+.auth{
+font-family: 'Fredericka the Great';
+font-weight: bold;
+}
+
+h1{
+color:orange;
+margin-top:2.5%;
+margin-bottom:2.5%;
+font-family: 'Luckiest Guy';
+font-size:70px;
+}
+h2{
+font-family: 'Tapestry';
+color:orange;
+font-size:60px;
+margin-bottom:2.5%;
+}
+h3{
+font-size:50px;
+}
+h4{
+font-size:40px;
+}
+h5{
+font-size:30px;
+}
+h6{
+font-size:25px;
+}
+h3,h4,h5,h6{
+font-family: 'Tapestry';
+}
+p,.modal-caption{
+font-family: 'Patrick Hand';
+font-size:18px;
+}
+small,i{
+font-family: 'Schoolbell';
+}
+
+.card{
+margin-bottom:15%;
+margin-right:10%;
+}
+.card-title{
+margin-left:3%;
+margin-top:1.5%;
+color:#023047;
+}
