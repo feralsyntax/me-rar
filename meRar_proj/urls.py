@@ -1,4 +1,4 @@
-"""meRar URL Configuration
+"""meRar_proj URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
@@ -18,5 +18,5 @@ from django.urls import re_path as url,include
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'',include('gallery.urls')),
+    url(r'',include('gallery_app.urls')),
 ]
